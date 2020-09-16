@@ -87,4 +87,4 @@ This link to [GitHub Markdown Reference] (https://guides.github.com/features/mas
 [text] (link)
 
 ##**Adding an Image from Web**
-![Image of Conn Crest] (Connecticut College Seal.png)
+![Image of Conn Crest] (https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Formal_Seal_of_Connecticut_College%2C_New_London%2C_CT%2C_USA.svg/1200px-Formal_Seal_of_Connecticut_College%2C_New_London%2C_CT%2C_USA.svg.png)
